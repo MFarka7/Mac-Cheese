@@ -3,36 +3,9 @@ body{
 }
 
 #AlzbetaP{
-   background-color: initial;
+   background-color: pink;
    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-   color:blue;
+   color:violet;
    
 }
 
-#AndreaS{
-   background-color:darkgreen;
-   font-family: initial;
-   color:aquamarine;
-   
-}
-
-#AnezkaR{
-   background-color:blueviolet;
-   font-family:'Times New Roman', Times, serif;
-   color:initial;
-   
-}
-
-#HanaL{
-   background-color:pink;
-   font-family:'Courier New', Courier, monospace;
-   color:gray;
-   
-}
-
-#LuciaG{
-   background-color:violet;
-   font-family: arial;
-   color:gray;
-   
-}
