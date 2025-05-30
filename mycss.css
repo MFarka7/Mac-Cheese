@@ -1,6 +1,12 @@
 body{
-   background-color: initial;
+   background-color:initial
+   ;
 }
+h1 {
+  color:darkmagenta;
+  font-size: xx-large;
+}
+   
 
 #AlzbetaP{
    background-color: initial;
@@ -10,29 +16,31 @@ body{
 }
 
 #AndreaS{
-   background-color:darkgreen;
+   background-color:initial;
    font-family: initial;
-   color:aquamarine;
+   color:initial;
    
 }
 
 #AnezkaR{
-   background-color:blueviolet;
+   background-color:initial;
    font-family:'Times New Roman', Times, serif;
    color:initial;
    
 }
 
 #HanaL{
-   background-color:pink;
-   font-family:'Courier New', Courier, monospace;
-   color:gray;
+   background-color:initial;
+   font-family:initial;
+   color:initial;
    
 }
 
 #LuciaG{
-   background-color:violet;
-   font-family: arial;
-   color:gray;
+   background-color:rgb(67, 162, 250);
+   font-family:initial;
+   color:initial;
    
 }
+
+
