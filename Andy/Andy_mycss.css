@@ -1,39 +1,28 @@
-
-body{
-   background-color: initial;
+body {
+  background-color: #f9f9f9; /* světlé pozadí */
+  color: #333333; /* základní text */
+  font-family: Arial, sans-serif;
 }
 
-#AlzbetaP{
-   background-color: initial;
-   font-family:initial;
-   color:initial;
-   
+h1 {
+  color: #076256; /* fialová barva pro hlavní nadpis */
 }
 
-#AndreaS{
-   background-color:darkgreen;
-   font-family: initial;
-   color:aquamarine;
-   
+h2 {
+  color: #18dfc1; /* modrozelená barva pro podnadpisy */
 }
 
-#AnezkaR{
-   background-color:blueviolet;
-   font-family:'Times New Roman', Times, serif;
-   color:initial;
-   
+p {
+  color: #3a3a3a; /* tmavě šedý text v odstavcích */
 }
 
-#HanaL{
-   background-color:pink;
-   font-family:'Courier New', Courier, monospace;
-   color:gray;
-   
+a {
+  color: #6f9a93; /* červený odkaz */
+  text-decoration: none;
 }
 
-#LuciaG{
-   background-color:violet;
-   font-family: arial;
-   color:gray;
-   
+a:hover {
+  text-decoration: underline;
+  color: #1e91e3; /* jiná barva odkazu při najetí myší */
 }
+
